@@ -1,0 +1,6 @@
+site_name: Generic Data explorer
+theme: material
+
+pages:
+    - home: index.md
+    - dataset structure: structure.md
