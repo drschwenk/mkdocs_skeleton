@@ -1,6 +1,15 @@
 site_name: Generic Data explorer
-theme: material
+theme: null
+theme_dir: './material_ai2_mkdoc'
+repo_url: 'https://github.com/allenai/<your repo>'
+repo_name: '<Your Repo Name>'
+download_url: '<Your Download URL>'
+extra:
+  font:
+    text: Oxygen
+    code: Oxygen
 
-pages:
+pages: @
     - home: index.md
     - dataset structure: structure.md
+    - datapoint: datapoint.md
