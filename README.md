@@ -1,6 +1,6 @@
 # Mkdocs quickstart guide 
 This guide and project skeleton are meant to provide a quick intro to mkdocs and the use of the AI2 mkdocs theme. 
-For more detail, refer to[the official mkdocs documentation.](http://www.mkdocs.org)
+For more detail, refer to [the official mkdocs documentation.](http://www.mkdocs.org)
 ## Installation
 Mkdocs is pip-installable:
 ```python
