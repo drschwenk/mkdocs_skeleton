@@ -9,7 +9,7 @@ extra:
     text: Oxygen
     code: Oxygen
 
-pages: @
+pages:
     - home: index.md
     - dataset structure: structure.md
     - datapoint: datapoint.md
