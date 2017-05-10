@@ -6,3 +6,8 @@ single page needed, with some consideration for the difficulty in generating mar
 Subheadings will be used to generated an intra-page navigation menu, and can help keep larger pages manageable.
 ## Component 2
 At present, the theme can only handle two levels of hierarchy.
+## Table Example
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
